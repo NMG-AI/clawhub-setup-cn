@@ -5,7 +5,7 @@
 ## 技能结构（标准 Skill 布局）
 
 ```
-clawhub_install_use/
+openclaw-skills-setup-cn/
 ├── SKILL.md    # 技能说明与触发条件（必选）
 ├── README.md   # 本文件
 └── .gitignore
@@ -21,12 +21,12 @@ clawhub_install_use/
 ## 安装
 
 ```bash
-clawhub install clawhub-setup-cn
+clawhub install openclaw-skills-setup-cn
 ```
 
 ## 触发场景
 
-当在 Claude Code / Cursor 中提到以下关键词或场景时，该技能会被自动激活：
+当在 OpenClaw 中使用时，以下关键词或场景会激活本技能：
 
 - **ClawHub 本身**：`clawhub`、`安装 clawhub`、`clawhub 怎么用`
 - **找技能**：`找技能` / `找 skill`、`有什么技能可以` / `有什么 skill 可以`、`找一个技能` / `找一个 skill`、`搜索技能` / `搜索 skill`

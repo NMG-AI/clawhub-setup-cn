@@ -26,13 +26,12 @@ clawhub install clawhub-setup-cn
 
 ## 触发场景
 
-当在 Claude Code / Cursor 中提到以下关键词时，该技能会被自动激活：
+当在 Claude Code / Cursor 中提到以下关键词或场景时，该技能会被自动激活：
 
-- `clawhub`、`安装 clawhub`、`clawhub 怎么用`
-- `找技能`、`有什么技能可以`、`找一个技能`、`搜索技能`
-- `安装技能`、`更新技能`、`管理技能`
-- `clawhub init`、`clawhub install`、`clawhub search`、`clawhub update`
-- `openclaw skills`
+- **ClawHub 本身**：`clawhub`、`安装 clawhub`、`clawhub 怎么用`
+- **找技能**：`找技能` / `找 skill`、`有什么技能可以` / `有什么 skill 可以`、`找一个技能` / `找一个 skill`、`搜索技能` / `搜索 skill`
+- **技能管理**：`安装技能` / `安装 skill`、`更新技能` / `更新 skill`、`管理技能` / `管理 skill`
+- **CLI 命令**：`clawhub init`、`clawhub install`、`clawhub search`、`clawhub update`、`openclaw skills`
 
 ## 许可证
 

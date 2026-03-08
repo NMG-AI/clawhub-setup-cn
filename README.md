@@ -1,4 +1,4 @@
-# clawhub-setup-cn
+# openclaw-skills-setup-cn
 
 面向中文用户的 ClawHub 安装与使用技能（Skill），覆盖安装、镜像配置、**找技能**（发现/推荐）以及技能管理。
 

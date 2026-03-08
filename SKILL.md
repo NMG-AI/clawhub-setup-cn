@@ -2,7 +2,7 @@
 name: clawhub-setup-cn
 description: >-
   ClawHub 安装与配置 | ClawHub setup. 帮助中文用户安装 ClawHub、配置镜像（如阿里云）、
-  找技能（发现/推荐）、以及技能的安装/更新/启用/禁用；完全覆盖 skill-finder-cn 的能力。
+  找技能（发现/推荐）、以及技能的安装/更新/启用/禁用。
   Use when: 安装 clawhub, clawhub 怎么用, 找技能/找 skill, 有什么技能可以/有什么 skill 可以,
   找一个技能/找一个 skill, 搜索技能/搜索 skill, 安装技能/安装 skill, 更新技能/更新 skill,
   管理技能/管理 skill, clawhub init, clawhub install, clawhub search,
